@@ -72,19 +72,14 @@ os.system('clear')
 
   </div>
 
-Algumas imagens da execução:
+Gif com a execução das três funcionalidades:
 
-- Terminal do Cliente durante a execução da primeira funcionalidade:
-![Terminal Cliente](https://user-images.githubusercontent.com/84748508/206967144-be903646-63ca-40b9-bc7a-0f096bd66511.png)
+<div align="center">
 
-- Terminal do Servidor durante a execução da primeira funcionalidade:
-![Terminal Servidor](https://user-images.githubusercontent.com/84748508/206967128-e081fb5d-c8e0-49ab-bd3f-c6af897142a1.png)
+ ![exemple-execution](https://user-images.githubusercontent.com/84748508/206972380-813ae566-21b3-45d8-969f-52d986f369dc.gif)
 
-- Terminal do Cliente durante a execução da segunda funcionalidade:
-![Terminal Cliente 2](https://user-images.githubusercontent.com/84748508/206967232-ef4728cb-b348-415f-8da1-6d8aa17b54fc.png)
+  </div>
 
-- Terminal do Servidor durante a execução da segunda funcionalidade:
-![Terminal Servidor 2 - novo](https://user-images.githubusercontent.com/84748508/206967207-876392b9-7336-4a22-b9c6-54db7581459c.png)
 
 ## 👩🏻‍💻👨🏻‍💻 Desenvolvedores
 
