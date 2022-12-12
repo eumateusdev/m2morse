@@ -4,15 +4,15 @@
 ✅ Projeto Concluído ✅
 </p>
 
-- [Descrição do projeto](#descrição-do-projeto)
+- [💬 Descrição do projeto](#descrição-do-projeto)
 
-- [Funcionalidades](#funcionalidades)
+- [🔢 Funcionalidades](#funcionalidades)
 
-- [Ferramentas utilizadas](#ferramentas-utilizadas)
+- [⚙ Ferramentas utilizadas](#ferramentas-utilizadas)
 
-- [Abrir e rodar o projeto](#abrir-e-rodar-o-projeto)
+- [🖥 Abrir e rodar o projeto](#abrir-e-rodar-o-projeto)
 
-- [Desenvolvedores](#desenvolvedores)
+- [👩🏻‍💻👨🏻‍💻 Desenvolvedores](#desenvolvedores)
 
 ## 💬 Descrição do projeto 
 
