@@ -17,7 +17,7 @@
 ## 💬 Descrição do projeto 
 
 <p align="justify">
- Projeto desenvolvido para disciplina Redes de Computadores do curso de Engenharia de Software/Ciencias da Computação da Universidade Federal do Ceará. 
+ Projeto desenvolvido para disciplina Redes de Computadores do curso de Engenharia de Software/Ciências da Computação da Universidade Federal do Ceará. 
  
 Como inspiração para a escolha do tema tivemos em mente uma aplicação de requisição e resposta, então imaginamos um cenário onde seria possível tal ação. Depois de pensarmos a respeito, decidimos desenvolver uma aplicação de conversor de português para morse, onde posteriormente adicionamos a possibilidade de ser uma espécie de tradutor, executando a ida (traduzindo de português para morse) e a volta da conversão (morse para português), utilizando o protocolo TCP.
 
