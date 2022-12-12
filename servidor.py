@@ -76,7 +76,7 @@ def traduz():
     print('Tradução para português em processo...')
     frase_final = ''.join(map(str,frase_final))
     socket_cliente.sendall(bytes(frase_final, encoding='utf-8'))
-    print('Frase enviada para o cliente! A frase traduzido para portugues foi:')
+    print('Frase enviada para o cliente! A frase traduzido para português foi:')
     print(frase_final)
 
 while True:
