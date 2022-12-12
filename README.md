@@ -14,7 +14,7 @@
 
 - [Desenvolvedores](#desenvolvedores)
 
-## Descrição do projeto 
+## 💬 Descrição do projeto 
 
 <p align="justify">
  Projeto desenvolvido para disciplina Redes de Computadores do curso de Engenharia de Software/Ciencias da Computação da Universidade Federal do Ceará. 
@@ -33,7 +33,7 @@ Podemos concluir com esse projeto, que implementar de forma “braçal” um cli
 
 </p>
 
-## Funcionalidades
+## 🔢 Funcionalidades
 
 :heavy_check_mark: `Funcionalidade 1:` Realiza a conversão de português para morse.
 
@@ -41,11 +41,11 @@ Podemos concluir com esse projeto, que implementar de forma “braçal” um cli
 
 :heavy_check_mark: `Funcionalidade 0:` Fecha a conexão.
 
-## Ferramentas utilizadas
+## ⚙ Ferramentas utilizadas
 
 - ``Python 3.11.1``
 
-## Abrir e rodar o projeto
+## 🖥 Abrir e rodar o projeto
 
 Após baixar o projeto, você pode abrir com o proprio Prompt de Comando do Windows (deverá ter o python instalado!).
 
@@ -86,9 +86,7 @@ Algumas imagens da execução:
 - Terminal do Servidor durante a execução da segunda funcionalidade:
 ![Terminal Servidor 2 - novo](https://user-images.githubusercontent.com/84748508/206967207-876392b9-7336-4a22-b9c6-54db7581459c.png)
 
-## Desenvolvedores
+## 👩🏻‍💻👨🏻‍💻 Desenvolvedores
 
 | [<img src="https://avatars.githubusercontent.com/u/84748508?v=4" width=115><br><sub>Mateus Andrade</sub>](https://github.com/eumateusdev) |  [<img src="https://avatars.githubusercontent.com/u/69697277?v=4" width=115><br><sub>Milene Cavalcante</sub>](https://github.com/Milene01)  |
 | :---: | :---: 
-
-
