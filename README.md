@@ -1,7 +1,7 @@
 # M2Morse - Aplicação de Conversor de Morse com o Uso de Sockets
 
 <p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=PROJETO%20CONCLUÍDO&color=GREEN&style=for-the-badge"/>
+✅ Projeto Concluído ✅
 </p>
 
 - [Descrição do projeto](#descrição-do-projeto)
