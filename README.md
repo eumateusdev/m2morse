@@ -43,7 +43,7 @@ Podemos concluir com esse projeto, que implementar de forma “braçal” um cli
 
 ## ⚙ Ferramentas utilizadas
 
-- ``Python 3.11.1``
+- ``Python 3.10.7``
 
 ## 🖥 Abrir e rodar o projeto
 
